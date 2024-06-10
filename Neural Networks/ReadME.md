@@ -1,1 +1,1 @@
-Deep learning Exercise : Neural networks
+Deep learning Second Exercise : Neural networks
